@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/2000g/Downloads/DuckHunt/DuckHunt/Content/sndBtnOver.wav</SourceFile>
+  <SourceTime>2022-05-21T15:17:17.7010192+01:00</SourceTime>
+  <DestFile>C:/Users/2000g/Downloads/DuckHunt/DuckHunt/Content/bin/DesktopGL/sndBtnOver.xnb</DestFile>
+  <DestTime>2022-05-28T02:55:33.9983211+01:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2018-12-08T16:35:54+00:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2018-12-08T16:35:54+00:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

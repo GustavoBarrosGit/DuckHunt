@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/2000g/Downloads/DuckHunt/DuckHunt/Content/Arial.spritefont</File>
+    <File>C:/Users/2000g/Downloads/DuckHunt/DuckHunt/Content/sndArrow.wav</File>
+    <File>C:/Users/2000g/Downloads/DuckHunt/DuckHunt/Content/sndBtnDown.wav</File>
+    <File>C:/Users/2000g/Downloads/DuckHunt/DuckHunt/Content/sndBtnOver.wav</File>
+    <File>C:/Users/2000g/Downloads/DuckHunt/DuckHunt/Content/sndExplode.wav</File>
+    <File>C:/Users/2000g/Downloads/DuckHunt/DuckHunt/Content/sndLaser.wav</File>
+    <File>C:/Users/2000g/Downloads/DuckHunt/DuckHunt/Content/sprArrowPlayer.png</File>
+    <File>C:/Users/2000g/Downloads/DuckHunt/DuckHunt/Content/sprBtnPlay.png</File>
+    <File>C:/Users/2000g/Downloads/DuckHunt/DuckHunt/Content/sprBtnRestart.png</File>
+    <File>C:/Users/2000g/Downloads/DuckHunt/DuckHunt/Content/sprDuck0.png</File>
+    <File>C:/Users/2000g/Downloads/DuckHunt/DuckHunt/Content/sprDuck1.png</File>
+    <File>C:/Users/2000g/Downloads/DuckHunt/DuckHunt/Content/sprDuck2.png</File>
+    <File>C:/Users/2000g/Downloads/DuckHunt/DuckHunt/Content/sprEggEnemy.png</File>
+    <File>C:/Users/2000g/Downloads/DuckHunt/DuckHunt/Content/sprPlayer.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

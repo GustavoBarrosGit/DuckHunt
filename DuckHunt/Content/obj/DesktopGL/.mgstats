@@ -1,0 +1,15 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/2000g/Downloads/DuckHunt/DuckHunt/Content/Arial.spritefont","C:/Users/2000g/Downloads/DuckHunt/DuckHunt/Content/bin/DesktopGL/Arial.xnb","FontDescriptionProcessor","SpriteFontContent",2005,529425,0,3360781
+"C:/Users/2000g/Downloads/DuckHunt/DuckHunt/Content/sndArrow.wav","C:/Users/2000g/Downloads/DuckHunt/DuckHunt/Content/bin/DesktopGL/sndArrow.xnb","SoundEffectProcessor","SoundEffectContent",84750,84777,0,5856793
+"C:/Users/2000g/Downloads/DuckHunt/DuckHunt/Content/sndBtnDown.wav","C:/Users/2000g/Downloads/DuckHunt/DuckHunt/Content/bin/DesktopGL/sndBtnDown.xnb","SoundEffectProcessor","SoundEffectContent",10718,10779,0,5034668
+"C:/Users/2000g/Downloads/DuckHunt/DuckHunt/Content/sndBtnOver.wav","C:/Users/2000g/Downloads/DuckHunt/DuckHunt/Content/bin/DesktopGL/sndBtnOver.xnb","SoundEffectProcessor","SoundEffectContent",10286,10347,0,4946421
+"C:/Users/2000g/Downloads/DuckHunt/DuckHunt/Content/sndExplode.wav","C:/Users/2000g/Downloads/DuckHunt/DuckHunt/Content/bin/DesktopGL/sndExplode.xnb","SoundEffectProcessor","SoundEffectContent",78044,77929,0,4931346
+"C:/Users/2000g/Downloads/DuckHunt/DuckHunt/Content/sndLaser.wav","C:/Users/2000g/Downloads/DuckHunt/DuckHunt/Content/bin/DesktopGL/sndLaser.xnb","SoundEffectProcessor","SoundEffectContent",30660,30721,0,4971378
+"C:/Users/2000g/Downloads/DuckHunt/DuckHunt/Content/sprArrowPlayer.png","C:/Users/2000g/Downloads/DuckHunt/DuckHunt/Content/bin/DesktopGL/sprArrowPlayer.xnb","TextureProcessor","Texture2DContent",192,981,0,2180634
+"C:/Users/2000g/Downloads/DuckHunt/DuckHunt/Content/sprBtnPlay.png","C:/Users/2000g/Downloads/DuckHunt/DuckHunt/Content/bin/DesktopGL/sprBtnPlay.xnb","TextureProcessor","Texture2DContent",2325,147541,0,0070024
+"C:/Users/2000g/Downloads/DuckHunt/DuckHunt/Content/sprBtnRestart.png","C:/Users/2000g/Downloads/DuckHunt/DuckHunt/Content/bin/DesktopGL/sprBtnRestart.xnb","TextureProcessor","Texture2DContent",3501,147541,0,0080022
+"C:/Users/2000g/Downloads/DuckHunt/DuckHunt/Content/sprDuck0.png","C:/Users/2000g/Downloads/DuckHunt/DuckHunt/Content/bin/DesktopGL/sprDuck0.xnb","TextureProcessor","Texture2DContent",270,1109,0,0050004
+"C:/Users/2000g/Downloads/DuckHunt/DuckHunt/Content/sprDuck1.png","C:/Users/2000g/Downloads/DuckHunt/DuckHunt/Content/bin/DesktopGL/sprDuck1.xnb","TextureProcessor","Texture2DContent",246,1109,0,0040016
+"C:/Users/2000g/Downloads/DuckHunt/DuckHunt/Content/sprDuck2.png","C:/Users/2000g/Downloads/DuckHunt/DuckHunt/Content/bin/DesktopGL/sprDuck2.xnb","TextureProcessor","Texture2DContent",276,1109,0,0050002
+"C:/Users/2000g/Downloads/DuckHunt/DuckHunt/Content/sprEggEnemy.png","C:/Users/2000g/Downloads/DuckHunt/DuckHunt/Content/bin/DesktopGL/sprEggEnemy.xnb","TextureProcessor","Texture2DContent",273,1741,0,0040022
+"C:/Users/2000g/Downloads/DuckHunt/DuckHunt/Content/sprPlayer.png","C:/Users/2000g/Downloads/DuckHunt/DuckHunt/Content/bin/DesktopGL/sprPlayer.xnb","TextureProcessor","Texture2DContent",327,2317,0,0040005
