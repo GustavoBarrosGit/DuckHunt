@@ -1,6 +1,7 @@
 # DuckHunt Game
 
 This project is a recreation of the classic **Duck Hunt** game, built using the **Monogame Framework**.
+
 The objective is to shoot down ducks while avoiding being attacked. The game features various types of ducks with distinct behaviors and a simple control system using the keyboard.
 
 
